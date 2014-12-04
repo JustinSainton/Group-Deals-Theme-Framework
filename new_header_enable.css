@@ -1,0 +1,14 @@
+body #header {
+  display: none; }
+body #nav {
+  display: none; }
+body #headernew {
+  display: block; }
+body #cities {
+  display: block; }
+body #main {
+  padding-top: 15px; }
+body .hide_city_selector {
+  padding-top: 56px; }
+  body .hide_city_selector #cities {
+    display: none; }
